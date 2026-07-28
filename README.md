@@ -2,6 +2,10 @@
 
 Мобильный лендинг Riobet Casino с адаптивной версией и поддержкой Google AMP.
 
+## Ссылки на демо (GitHub Pages)
+- **Основной лендинг**: [https://lelyaler.github.io/riobet/index.html](https://lelyaler.github.io/riobet/index.html)
+- **AMP-версия**: [https://lelyaler.github.io/riobet/index.amp.html](https://lelyaler.github.io/riobet/index.amp.html)
+
 ## Особенности
 - **Работа без VPN**: сайт стабильно работает и доступен при отключенном VPN.
 - **Скорость загрузки на мобильных устройствах**: результаты и высокую скорость загрузки на мобильных устройствах можно посмотреть на скриншоте: `Screenshot from 2026-07-28 22-04-07.png`.
