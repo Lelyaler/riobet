@@ -1,4 +1,4 @@
-# Riobet Landing Page & AMP https://lelyaler.github.io/riobet/
+# Riobet Landing Page & AMP 
 
 Мобильный лендинг Riobet Casino с адаптивной версией и поддержкой Google AMP.
 
